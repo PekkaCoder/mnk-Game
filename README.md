@@ -1,7 +1,7 @@
 # mnk-Game
 An illustration how to create a easily portable two players playable mnk-Game using modern C++ with classes.
 
-How to use m_n_k game code
+How to use mnk Game code
 ---------------------------
 
 Board consists of squares. The size of the board is m_rows x m_cols (class Board).
